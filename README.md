@@ -14,4 +14,4 @@ This egg allows you to host a virtual machine (on pterodactyl) - You can choose 
 3. Follow through the installation
 4. Restart your server and its ready
 
-*Made with 💗 by Solarnode Development (solarnode.xyz) - You are free to modify this egg however u wish but remain the credits.*
+*Made with 💗  by Solarnode Development (solarnode.xyz) - You are free to modify this egg however u wish but remain the credits.*
