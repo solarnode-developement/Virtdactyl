@@ -1,8 +1,6 @@
 # Virtdactyl
 ## Latest Version is 11.X
 
-# Dynamic Linux Docker Image for Pterodactyl
-
 This egg allows you to host a virtual machine (on pterodactyl) - You can choose multiple linux distros.
 
 ## Features
@@ -16,4 +14,4 @@ This egg allows you to host a virtual machine (on pterodactyl) - You can choose 
 3. Follow through the installation
 4. Restart your server and its ready
 
-*Made with 💗 by Solarnode Development (solarnode.xyz)*
+*Made with 💗 by Solarnode Development (solarnode.xyz) - You are free to modify this egg however u wish but remain the credits.*
